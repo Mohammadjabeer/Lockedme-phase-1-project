@@ -1,0 +1,4 @@
+As a Full Stack Developer, complete the features of the application
+by planning the development in terms of sprints 
+then push the source code to the GitHub repository
+this is a prototyped application
